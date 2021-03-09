@@ -8,7 +8,9 @@ join salaries
 on employees.emp_no = salaries.emp_no;
 
 --2. List first name, last name, and hire date for employees who were hired in 1986.
-
+select first_name, last_name, hire_date
+from employees
+where hire_date between '1986-01-01' and '1987-01-01';
 
 --3. List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
 
