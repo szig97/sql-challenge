@@ -1,3 +1,3 @@
 # sql-challenge
-For this assignment, I used SQL and Jupyter Notebook to conduct a research project for a fictitious company named "Pewlett Hackard" and their employees during the 1980s-1990s. The assignment involved Data Modeling, Data Engineering, and Data Analysis.
+For this assignment, I used SQL and Jupyter Notebook to conduct a research project for a fictitious company named "Pewlett Hackard" and their employees during the 1980s-1990s. The assignment involved Data Modeling, Data Engineering, and Data Analysis. In addition, there is a bonus section which contains a histogram of the common salary ranges of a Pewlett Hackard wmployee and a bar graph of the average Pewlett Hackard employee salaries grouped by  their title.
 
